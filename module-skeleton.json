@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-isp-react-native",
+  "capabilityKey": "liberusoftware/module-billing-isp",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-billing-isp-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/billing/nextjs/isp.md",
+  "presentationPlan": "projects/billing/react-native/isp.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
